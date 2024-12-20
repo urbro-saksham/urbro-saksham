@@ -1,19 +1,14 @@
-![I am Avneet Singh](https://img.shields.io/badge/I%20am%20Avneet%20Singh-b?style=for-the-badge&label=Hey%20there!&color=black&link=https%3A%2F%2Fparody-portfolio.vercel.app%2F)
+![I am Saksham Srivastava](https://img.shields.io/badge/I%20am%20Avneet%20Singh-b?style=for-the-badge&label=Hey%20there!&color=black&link=https%3A%2F%2Fparody-portfolio.vercel.app%2F)
 ## Your friendly neighborhood nerd...
 
 - 🧐 Next.js developer and versed in MERN stack
 - 🍀 love experimenting with [Explainable AI](https://drive.google.com/file/d/1TlxDpFiHSNI7NV5h4QK46R2PioU7M5lJ/view), [Deep Q Networks](https://github.com/avneets2103/RL-stock-predictor) and [Neural Networks](https://github.com/avneets2103/BotNet-detection/tree/main)
 - 🔭 Currently working on my Bachelors Thesis Project (BTP)
 - 🌱 and making projects to scale up
-- ⚡ SHAZAM ... oops still human! 
 
 **Find me via:**
 
-[![My Portfolio](https://img.shields.io/badge/My%20Portfolio-black?style=for-the-badge&color=%23FF4301&link=https%3A%2F%2Fparody-portfolio.vercel.app%2F)](https://the-lore.vercel.app/)
-[![Gmail](https://img.shields.io/badge/Gmail-b?style=for-the-badge&logo=gmail&logoColor=white&color=%23EA4335&link=mailto%3Aavneets2103%40gmail.com)](mailto:avneets2103@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-b?style=for-the-badge&logo=linkedin&logoColor=white&color=%230A66C2&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fthe-saksham-srivastava%2F)](https://www.linkedin.com/in/the-saksham-srivastava/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-b?style=for-the-badge&logo=kaggle&logoColor=white&color=%2320BEFF&link=https%3A%2F%2Fwww.kaggle.com%2Favneets2103)](https://www.kaggle.com/avneets2103)
-[![Pexels](https://img.shields.io/badge/Pexels-asa?style=for-the-badge&logo=pexels&logoColor=%2305A081&labelColor=black&color=%2305A081)](https://www.pexels.com/@avneet-singh-1592548633)
 [![X (Twitter)](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=%231DA1F2)](https://x.com/suckzhum)
 [![LeetCode](https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode&logoColor=yellow&color=%23001024)](https://leetcode.com/u/apexbigcat_/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/saksham_u4/)
