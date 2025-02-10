@@ -2,7 +2,7 @@
 
 [![GitHub Followers](https://img.shields.io/github/followers/eklavya172004?label=Follow%20Me&style=social)](https://github.com/eklavya172004)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=#d16c06)](https://leetcode.com/u/eklavya172004/)
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Feklavya172004&label=Visitors&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Feklavya172004)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=urbro-saksham&countColor=%23263759)](https://visitorbadge.io/status?path=urbro-saksham)
 
 ## 👨💻 About Me
 
