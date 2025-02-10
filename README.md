@@ -1,53 +1,71 @@
-![I am Saksham Srivastava](https://img.shields.io/badge/I%20am%20Avneet%20Singh-b?style=for-the-badge&label=Hey%20there!&color=black&link=https%3A%2F%2Fparody-portfolio.vercel.app%2F)
-## Your friendly neighborhood nerd...
+# 👋 Hello, I'm Saksham Srivastava!
 
-- 🧐 Next.js developer and versed in MERN stack
-- 🍀 love experimenting with [Explainable AI](https://drive.google.com/file/d/1TlxDpFiHSNI7NV5h4QK46R2PioU7M5lJ/view), [Deep Q Networks](https://github.com/avneets2103/RL-stock-predictor) and [Neural Networks](https://github.com/avneets2103/BotNet-detection/tree/main)
-- 🔭 Currently working on my Bachelors Thesis Project (BTP)
-- 🌱 and making projects to scale up
+[![GitHub Followers](https://img.shields.io/github/followers/eklavya172004?label=Follow%20Me&style=social)](https://github.com/eklavya172004)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=#d16c06)](https://leetcode.com/u/eklavya172004/)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Feklavya172004&label=Visitors&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Feklavya172004)
 
-**Find me via:**
+## 👨💻 About Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-b?style=for-the-badge&logo=linkedin&logoColor=white&color=%230A66C2&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fthe-saksham-srivastava%2F)](https://www.linkedin.com/in/the-saksham-srivastava/)
-[![X (Twitter)](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=%231DA1F2)](https://x.com/suckzhum)
-[![LeetCode](https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode&logoColor=yellow&color=%23001024)](https://leetcode.com/u/apexbigcat_/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/saksham_u4/)
+- 💻 **Full-Stack Developer** with expertise in modern web technologies
+- 🚀 **2025 Goal**: Solve 300+ DSA Problems +  Build 3 advanced-level resume-worthy projects
+- 🧠 Regular **LeetCode problem solver** ([Profile](https://leetcode.com/u/eklavya172004/))
+- 🌱 Currently learning **DevOps** and **Advanced Python Development**
+- 🛠️ **Core Skills**: `React` `Next.js` `TypeScript` `Node.js` `Java` `Python`
+
+## 🛠️ Tech Stack
+
+**Frontend**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Backend**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+**Databases**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Mobile**  
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+**Languages**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+**DevOps (Learning)**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 
+###  LeetCode 
+- Curated collection of optimized solutions with detailed explanations
+- Regular updates with new problem solutions
+- [View Solutions](https://leetcode.com/u/eklavya172004/)
 
-# 💻 Tech Stack:
-![NextJS](https://img.shields.io/badge/NextJS-black?style=for-the-badge&logo=Next.js&logoColor=white&color=black)
-![Spline](https://img.shields.io/badge/Spline-adcad?style=for-the-badge&logo=circle&logoColor=white&color=%23DA26C0)
-![TypeScript](https://img.shields.io/badge/Typescript-b?style=for-the-badge&logo=typescript&logoColor=white&color=3178C6)
-![AWS S3](https://img.shields.io/badge/AWS%20S3-adcs?style=for-the-badge&logo=amazons3&logoColor=white&labelColor=%23569A31&color=%23569A31)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-adcad?style=for-the-badge&logo=flask&logoColor=%23000000&labelColor=white&color=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-b?style=for-the-badge&logo=tailwindcss&logoColor=black&color=06B6D4)
-![Redux Tool Kit](https://img.shields.io/badge/Redux%20Tool%20Kit-b?style=for-the-badge&logo=redux&logoColor=white&color=764ABC)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-asa?style=for-the-badge&logo=react&logoColor=black&labelColor=%2361dafb&color=%2361DAFB)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-b?style=for-the-badge&logo=jsonwebtokens&logoColor=white&color=%23000000)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![ShadCN](https://img.shields.io/badge/ShadCN-black?style=for-the-badge&logo=shadcnui&logoColor=white&color=B266FF)
-![NextUI](https://img.shields.io/badge/NextUI-black?style=for-the-badge&logo=nextui&logoColor=black&color=CCFFFF)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![OpenAI Gym](https://img.shields.io/badge/OpenAI%20Gym-b?style=for-the-badge&logo=openaigym&logoColor=black&color=%230081A5)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+## 📈 GitHub Stats
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eklavya172004&layout=compact&theme=vision-friendly-dark&hide=roff)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🤝 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eklavya-nath-506818286/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=#d16c06)](https://leetcode.com/u/eklavya172004/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eklavyanath1704@gmail.com)
+
+## 🎯 2025 Focus Areas
+1. Build complex systems with Java Spring Boot
+2. Implement CI/CD pipelines for projects
+3. Become good at problem solving.
+4. Create mobile-first applications with React Native
+5. Master system design and architecture patterns
+
+![](https://komarev.com/ghpvc/?username=eklavya172004&color=blueviolet)
