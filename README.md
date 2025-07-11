@@ -3,8 +3,8 @@ Full Stack Developer with 1 year of experience building scalable web application
 
 
 ## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-000000.svg?style=flat&logo=twitter&logoColor=white)](https://x.com/suckzhum)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/saksham-srivastava-820487302/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sakshamsriv.connect@gmail.com) 
+[![X](https://img.shields.io/badge/X-000000.svg?style=flat&logo=twitter&logoColor=white)](https://x.com/suckzhum)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/apexbigcat_/)
 
 # 💻 Tech Stack:
